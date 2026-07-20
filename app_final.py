@@ -11,7 +11,6 @@ from dotenv import load_dotenv
 client = Groq(
     api_key="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"
 )
-
 st.set_page_config(
     page_title="Agentic BI Assistant Pro",
     layout="wide"
